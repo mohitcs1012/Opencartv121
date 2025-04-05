@@ -1,0 +1,27 @@
+2025-04-05 17:27:46 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest****
+2025-04-05 17:27:47 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2025-04-05 17:27:48 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-04-05 17:27:48 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-04-05 17:27:50 INFO  TC001_AccountRegistrationTest:37 - Validating expected message..
+2025-04-05 17:27:50 INFO  TC001_AccountRegistrationTest:42 - Test passed
+2025-04-05 17:27:50 INFO  TC001_AccountRegistrationTest:47 - ***** Finished TC001_AccountRegistrationTest *****
+2025-04-05 17:27:56 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest****
+2025-04-05 17:27:58 INFO  TC002_LoginTest:39 - ***** Finished TC002_LoginTest****
+2025-04-05 17:56:54 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest****
+2025-04-05 17:56:54 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2025-04-05 17:56:55 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-04-05 17:56:55 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-04-05 17:56:58 INFO  TC001_AccountRegistrationTest:37 - Validating expected message..
+2025-04-05 17:56:58 INFO  TC001_AccountRegistrationTest:42 - Test passed
+2025-04-05 17:56:58 INFO  TC001_AccountRegistrationTest:47 - ***** Finished TC001_AccountRegistrationTest *****
+2025-04-05 17:57:05 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest****
+2025-04-05 17:57:08 INFO  TC002_LoginTest:39 - ***** Finished TC002_LoginTest****
+2025-04-05 18:09:14 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest****
+2025-04-05 18:09:14 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2025-04-05 18:09:15 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-04-05 18:09:15 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-04-05 18:09:18 INFO  TC001_AccountRegistrationTest:37 - Validating expected message..
+2025-04-05 18:09:18 INFO  TC001_AccountRegistrationTest:42 - Test passed
+2025-04-05 18:09:18 INFO  TC001_AccountRegistrationTest:47 - ***** Finished TC001_AccountRegistrationTest *****
+2025-04-05 18:09:23 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest****
+2025-04-05 18:09:25 INFO  TC002_LoginTest:39 - ***** Finished TC002_LoginTest****
